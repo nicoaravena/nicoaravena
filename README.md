@@ -5,5 +5,5 @@
 ![nicoaravena's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=nicoaravena&theme=radical&hide=java,javascript,html,css&layout=compact)
 
 - 🔭 I’m currently working on [Fidelizador.com](https://www.fidelizador.com)
-- 🌱 I’m currently learning C++ and Python
+- 🌱 Always reading and improving my skill in Python, PHP, C++ and SQL (MySQL, Mariadb, Postgres)
 - 👯 I collaborate with [AzerothCore](https://www.azerothcore.org/) and [ChromieCraft](https://www.chromiecraft.com/)
